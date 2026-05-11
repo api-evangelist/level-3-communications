@@ -30,6 +30,23 @@ common:
   - type: About
     name: Level 3 Communications Wikipedia
     url: https://en.wikipedia.org/wiki/Level_3_Communications
+  - type: Integrations
+    url: https://www.lumen.com/en-us/partner/channel-partner-program.html
+integrations:
+  - name: Lumen
+  - name: Salesperson
+  - name: Phone ringing
+  - name: Lumen Tech Co Twitter Account
+  - name: Lumen Technologies LInked In Account
+  - name: Lumen Tech Facebook Account
+  - name: Lumen Technologies Youtube Account
+  - name: Blank Image
+  - name: Australia Flag
+  - name: Hong Kong flag
+  - name: India Flag
+  - name: Japan Flag
+  - name: Singapore Flag
+  - name: United States Flag
 maintainers:
   - FN: Kin Lane
     email: info@apievangelist.com
