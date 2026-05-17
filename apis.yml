@@ -7,7 +7,7 @@ description: >-
   it was acquired by CenturyLink, which later rebranded the combined company as
   Lumen Technologies. No public API program is documented under the legacy
   Level 3 brand.
-type: Company
+kind: company
 position: Producer
 access: 1st-Party
 image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
