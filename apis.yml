@@ -25,6 +25,8 @@ url: >-
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/level-3-communications-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/level-3-communications
   - type: Website
