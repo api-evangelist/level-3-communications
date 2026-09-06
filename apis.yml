@@ -79,3 +79,5 @@ integrations:
 maintainers:
   - FN: Kin Lane
     email: info@apievangelist.com
+x-parent: lumen-technologies
+x-relationship: acquisition
