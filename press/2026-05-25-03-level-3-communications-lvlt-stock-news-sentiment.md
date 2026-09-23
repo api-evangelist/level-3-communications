@@ -1,7 +1,9 @@
 ---
 title: Level 3 Communications LVLT Stock News, Sentiment, ...
 url: https://www.cityfalcon.ai/news/directory/stocks/level-3-communications-lvlt
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Level 3 Communications" press release artificial intelligence'
 position: 3
 source: serpapi-google

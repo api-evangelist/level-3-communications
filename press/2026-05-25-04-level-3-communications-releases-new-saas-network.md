@@ -1,7 +1,9 @@
 ---
 title: level 3 communications releases new saas network ...
 url: https://appdevelopermagazine.com/search/level-3-communications-releases-new-saas-network-security-solution
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Level 3 Communications" press release artificial intelligence'
 position: 4
 source: serpapi-google
